@@ -1,0 +1,27 @@
+# Local builds and packaging
+**/bin/
+**/obj/
+**/dist/
+outputs/
+work/
+*.exe
+*.dll
+*.pdb
+*.zip
+*.tmp
+*.user
+*.suo
+**/__pycache__/
+.env
+
+# Personal projects, logs and caches
+*.qslcard
+*.qslside
+*.qslmaterial
+*.adi
+*.adif
+**/Stations/
+**/Logos/
+**/Cache/
+locations.xml
+guide-dismissed

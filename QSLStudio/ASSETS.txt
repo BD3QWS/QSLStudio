@@ -1,0 +1,70 @@
+QSL 卡片工坊素材许可与参考资料
+
+空白模板版式：本项目原创，按 CC0 1.0 通用许可提供。
+许可原文：https://creativecommons.org/publicdomain/zero/1.0/legalcode
+模板包括全幅照片卡、黑白手填卡、卡片局多通联、照片留白卡、活动纪念卡、明信片直寄、卡片局贴签、卫星通联、SWL 收听确认、见面交换卡、纯呼号、竖图手写卡和赛事通联。可编辑模板文件见 Templates 文件夹。
+
+照片模板预留了图片区域。可在编辑器中导入自己的照片。
+
+卡片版式参考
+- QSLink 公开卡片广场：https://qsl.9ham.net/explore
+- K8CX 中国业余电台卡片档案：https://hamgallery.com/qsl/country/China/
+- K9XN 实卡档案：https://k9xn.org/qsl-cards/
+- QSL Hall 实卡收藏：https://qslhall.com/
+- ELLI & OK1FXX 印刷资料与样张：https://www.qsl.cz/en-qsl/objednat/podklady/
+- HamCQ 卡片手册：https://docs.hamcq.cn/pages/69299a/
+- HamCQ / BI3AR 分享的背面模板：https://forum.hamcq.cn/d/418/31
+- BI1TMQ 风景卡片：https://www.qrz.com/db/BI1TMQ
+- BD1CZP 双面示例：https://leovan.me/cn/2025/10/amateur-radio-introduction/
+- BG8LNG 会徽与通联资料布局：https://dovesky.com/326.html
+- BD4UQG 通联卡填表格式：https://www.cnblogs.com/zitech/p/16605292.html
+- BA4RLL 的照片与活动卡：https://jhsong0410.site/qsl
+- HamCQ 纸质背面手填实卡：https://forum.hamcq.cn/d/8917?tl=en
+- 日本业余无线电联盟填写示例：https://www.jarl.org/Japanese/5_Nyukai/qsl_card.htm
+- 编辑器交互与导出参考：https://qsl.fan/ 、https://www.g3i.net/qsl/ 、https://qsl.ttdd.top/
+- 140 × 90 mm 尺寸参考：https://www.arrl.org/outgoing-qsl-service
+- 有邮票位的明信片实寄：https://forum.hamcq.cn/d/3994
+- 贴签与见面交换：https://docs.hamcq.cn/pages/69299a/
+- 卫星名称与网格：https://www.amsat.org/awards-2/
+- 收听确认：https://rl.lu/en/short-wave-listening-swl/
+- 纯呼号封面和正反面配套：https://forum.hamcq.cn/d/2295/1422 、https://qsl.mizuki.top/index.php
+- 多用途确认、签名和手填空间：https://forum.hamcq.cn/d/5103 、https://www.qsl.cz/cs-qsl/galerie/
+
+可在软件内下载并插入的协会标志：
+- CRAC 原图（150 × 300 px）：https://www.crac.org.cn/wp-content/themes/crac-themes/images/crac-logo.png
+  QSL 上使用徽标的官方答复：https://www.crac.org.cn/?p=999
+- CRAC 蓝色圆章参考卫星百科存档。图片站不可用时，使用 CRAC 官网的徽标和本地绘制的外圈。个人章在外圈留白处加入用户填写的呼号。
+  https://sat.huijiwiki.com/wiki/中国无线电协会业余无线电分会
+  台友制章参考：https://forum.hamcq.cn/d/5865
+- CRSA 旧菱形出自 BY6DX 台站的历史存档。商业使用按协会章程取得许可。
+  https://www.qsl.net/by6dx/old/textbook_pages/about_crsa.htm
+  https://www.sport.gov.cn/hgzx/n5368/c673009/content.html
+- ARRL 黑金和单色印刷版均取自 ARRL 网站，协会允许会员或附属俱乐部用于个人 QSL。
+  https://www.arrl.org/copyright
+- JARL 横版取自 JARL 官网，百周年版取自 JARL 的特设台公告。
+  https://www.jarl.org/
+  https://www.jarl.org/English/8_info/expo2025.html
+- RSGB 彩色透明底、彩色白底与黑白透明底可按协会说明用于会员非商业用途。
+  https://rsgb.org/main/clubs-training/publicity-material/
+- CDXA 彩色与黑白版用于会员个人 QSL，使用说明见协会网站。
+  https://www.cdxa.org/cdxa_logo.php
+- IOTA 原图（1925 × 1279 px）：https://www.iota-world.org/islands-on-the-air/downloads/download-file.html?path=iota_logo.png
+  个人卡片请保持原样：https://www.iota-world.org/copyright-notice.html
+- SOTA 原图（77 × 77 px）：https://www.sota.org.uk/assets/media/sota_logo.jpg
+  个人非商业 QSL：https://www.sota.org.uk/Joining-In/FAQs
+
+特殊材质的参考：
+- 铜片、木片和硬塑料 QSL 记录 https://radioheritage.com/otsw/Wavescan/wavescan140420.html
+- PCB 卡片的个人制作记述 https://www.g6oi.org.uk/wp-content/uploads/2021/03/2021_04_Starlite.pdf
+- LightBurn 所支持的位图与矢量格式 https://docs.lightburnsoftware.com/latest/GetStarted/CreatingAndImportingArtwork/
+
+随安装包提供的开放许可协会标志：
+- ARRAM，摩洛哥皇家业余无线电协会。发布者 Cn8han。原图未修改，CC0 1.0。
+  https://commons.wikimedia.org/wiki/File:Logo_officiel_de_l%27Association_Royale_des_RadioAmateurs_du_Maroc.png
+  https://creativecommons.org/publicdomain/zero/1.0/
+- URV-ABRA，比斯开业余无线电协会。EA2URV 发布，图片署名 EB2FVF Joselu。缩小到 1200 × 1200，原许可不变，CC BY-SA 4.0。
+  https://commons.wikimedia.org/wiki/File:Logo_URV-ABRA_Uni%C3%B3n_de_Radioaficionados_de_Vizcaya_-_Asociaci%C3%B3n_Bizkaia_de_Radioaficionados.png
+  https://creativecommons.org/licenses/by-sa/4.0/
+- MARC，芒格洛尔业余无线电俱乐部。Vishnu Murthy 设计，俱乐部授权发布。原图未修改，CC BY-SA 4.0。
+  https://commons.wikimedia.org/wiki/File:Logo_of_Mangalore_Amateur_Radio_Club.jpg
+  https://creativecommons.org/licenses/by-sa/4.0/

@@ -1,0 +1,17 @@
+Building QSL Studio
+
+This project uses C# 5 and WinForms. It has no third-party runtime libraries.
+The executable is built as x86 against the original .NET Framework 4.0
+reference assemblies, with Windows subsystem version 4.00.
+
+Download the official Microsoft.NETFramework.ReferenceAssemblies.net40 1.0.3
+NuGet package and extract it. It is only needed at build time:
+https://www.nuget.org/packages/Microsoft.NETFramework.ReferenceAssemblies.net40/1.0.3
+
+Run Build.ps1 with Windows PowerShell or pwsh on the development PC:
+  .\Build.ps1 -FrameworkRefs 'C:\path\to\extracted\build\.NETFramework\v4.0'
+
+The build uses the .NET Framework csc.exe shipped in Windows. It renders two
+preview thumbnails for each built-in template, then embeds the thumbnails,
+open-licensed logos and ICO. See ASSETS.txt for image rights. No runtime
+installer, .NET reference assemblies or restricted logos are redistributed.
